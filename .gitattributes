@@ -1,0 +1,14 @@
+* text=auto
+
+# Binary files
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
+*.gif binary
+*.torrent binary
+*.rar binary
+*.zip binary
+*.7z binary
+*.exe binary
+*.bin binary
